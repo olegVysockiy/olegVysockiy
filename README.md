@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Oleg 
 #### I am JS developer
-![I am JS developer](https://cdn.boldomatic.com/content/post/yw1XdA/hello-everybody?size=800)
+![I am JS developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-OYNlyBBtwpqrS41EjT2ShF4PggX7aeQww&usqp=CAU)
 
 
 Skills: 
