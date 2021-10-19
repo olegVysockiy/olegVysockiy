@@ -4,9 +4,9 @@
 
 
 Skills: 
-REACT
-JS
-NODE.JS
+- REACT
+- JS
+- NODE.JS
 REDUX
 EXPRESS
 HTML
