@@ -7,15 +7,15 @@ Skills:
 - REACT
 - JS
 - NODE.JS
-REDUX
-EXPRESS
-HTML
-CSS
-REDUX-THUNK
-SEQUELIZE
-POSTGRES
+- REDUX
+- EXPRESS
+- HTML
+- CSS
+- REDUX-THUNK
+- SEQUELIZE
+- POSTGRES
 
 - 📫 How to reach me: 
-Email vysockiy91@gmail.ru 
-Telegram http://t.me/olegVysockiy
+- Email vysockiy91@gmail.ru 
+- Telegram http://t.me/olegVysockiy
 
