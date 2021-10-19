@@ -3,7 +3,8 @@
 ![I am JS developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
-Skills: REACT
+Skills: 
+REACT
 JS
 NODE.JS
 REDUX
